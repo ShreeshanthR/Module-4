@@ -23,7 +23,7 @@ print("Number of lines not starting with 'T':", count)
 ```
 
 ## Output
-<img width="1143" height="62" alt="image" src="https://github.com/user-attachments/assets/68ef79ca-1648-400e-bbcf-37015d27f4d3" />
+<img width="637" height="58" alt="image" src="https://github.com/user-attachments/assets/8e17e7bb-b7b5-4c4c-82cb-cc96061ec1ee" />
 
 ## Result
 Thus, the Python program that counts and displays the number of lines in a file that do not start with the letter 'T' has been successfully created and executed.
